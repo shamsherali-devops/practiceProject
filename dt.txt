@@ -1,0 +1,2 @@
+name = shamsher ali
+age = 25;
