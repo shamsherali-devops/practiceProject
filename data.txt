@@ -1,7 +1,0 @@
-name : shamsher ali 
-age : 21
-email : shamsher.ali@example.com
-address : 123 Main Street, Cityville
-phone : +1-555-0123
-occupation : Software Engineer
-company : TechSolutions Inc.
