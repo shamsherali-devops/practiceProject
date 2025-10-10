@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 this is the third file agian and moree things sd
 <<<<<<< HEAD
  this is new new line here  and many more here 
 =======
  this is new new line here 
 >>>>>>> ef0e2e5b50f70c5126c3b3714c3b45ffd1a37ff9
+=======
+the third file
+>>>>>>> snd
